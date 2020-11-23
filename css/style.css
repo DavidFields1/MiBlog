@@ -17,10 +17,11 @@ h1{
 }
 
 .cabecera{
-    color: cornflowerblue;
+    color: coral;
     font-weight: bold;
     font-size: 30px;
     background-color: black;
     padding: 10px;
     text-align: center;
+    border: 3px dashed yellow;
 }
